@@ -6,3 +6,7 @@
   * Dynamic Array
   * Left Rotation
   * Sparse Arrays
+* Linked List
+  * Print the elements of a linked list
+  * Insert a node at the tail of linked list
+  * Insert a node at the head of linked list
