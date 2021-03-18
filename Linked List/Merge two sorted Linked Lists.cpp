@@ -68,6 +68,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  * };
  *
  */
+
 SinglyLinkedListNode* mergeLists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
     SinglyLinkedListNode* result = NULL;
     if(head1 == NULL){
