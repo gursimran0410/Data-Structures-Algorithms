@@ -58,7 +58,6 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
 }
  
 // Complete the mergeLists function below.
-
 /*
  * For your reference:
  *
