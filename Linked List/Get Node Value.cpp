@@ -83,6 +83,25 @@ int getNode(SinglyLinkedListNode* head, int positionFromTail) {
     return (temp -> data);
 }
 
+//Optimized Solution
+/*
+    int getNode(SinglyLinkedListNode* head, int positionFromTail) {
+    int count = 0;
+    SinglyLinkedListNode* current = head;
+    SinglyLinkedListNode* result = head;
+    while(current != NULL)
+    {
+        current=current->next;
+        if (count++ > positionFromTail)
+        {
+            result = result -> next;
+        }
+    }
+    return (result -> data);
+
+}
+*/
+
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
