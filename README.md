@@ -13,3 +13,6 @@
   * Insert a node at a specific position in a linked list
   * Delete a Node
   * Print in reverse
+  * Cycle Detection
+  * Delete duplicate value nodes from a sorted linked list
+  * Get node value
