@@ -1,4 +1,6 @@
 ## Data-Structures-Algorithms
+* Algorithms
+  * Diagonal Differences
 * Array
   * 1-Dimensional Array
   * 2-Dimensional Array
@@ -16,3 +18,7 @@
   * Cycle Detection
   * Delete duplicate value nodes from a sorted linked list
   * Get node value
+  * Reverse a doubly linked list
+  * Insert a node into a sorted doubly linked list
+  * Find Merge Point Of Two Linked List
+  * Merge Two Sorted Linked List
