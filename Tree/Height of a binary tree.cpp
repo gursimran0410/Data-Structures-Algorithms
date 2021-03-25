@@ -37,7 +37,6 @@ class Node {
     Node* left;
     Node* right;
 };
-
 */
     int height(Node* root) {
         if(root == NULL){
