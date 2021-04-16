@@ -27,7 +27,6 @@ int main()
 
     string n_temp;
     getline(cin, n_temp);
-
     int n = stoi(ltrim(rtrim(n_temp)));
 
     vector<vector<int>> arr(n);
