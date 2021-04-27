@@ -35,7 +35,6 @@ int main()
     getline(cin, candles_temp_temp);
 
     vector<string> candles_temp = split(rtrim(candles_temp_temp));
-
     vector<int> candles(candles_count);
     
     int max = -9999;
