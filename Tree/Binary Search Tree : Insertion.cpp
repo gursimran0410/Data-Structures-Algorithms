@@ -40,7 +40,6 @@ class Node {
             right = NULL;
         }
 };
-
 */
 
     Node * insert(Node * root, int data) {
