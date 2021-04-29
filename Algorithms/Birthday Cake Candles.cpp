@@ -64,7 +64,6 @@ string ltrim(const string &str) {
         s.begin(),
         find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
     );
-
     return s;
 }
 
