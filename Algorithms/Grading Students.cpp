@@ -32,7 +32,6 @@ int main()
 
     string grades_count_temp;
     getline(cin, grades_count_temp);
-
     int grades_count = stoi(ltrim(rtrim(grades_count_temp)));
 
     vector<int> grades(grades_count);
