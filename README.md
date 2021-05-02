@@ -1,6 +1,14 @@
 ## Data-Structures-Algorithms
 * Algorithms
+  * Apple and Oranges
+  * Birthday Cake Candles 
   * Diagonal Differences
+  * Grading Students
+  * Mini-Max Sum
+  * Number Line Jumps
+  * Plus Minus
+  * Staircase
+  * Time Conversion
 * Array
   * 1-Dimensional Array
   * 2-Dimensional Array
