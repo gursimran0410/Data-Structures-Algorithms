@@ -14,7 +14,6 @@ class Node {
 
 class Solution {
     public:
-  	
   	void preOrder(Node *root) {
 		
       	if( root == NULL )
