@@ -27,8 +27,9 @@ function readLine() {
  *
  * The function is expected to return an INTEGER.
  * The function accepts following parameters:
- *  1. INTEGER steps
- *  2. STRING path
+ *  1. INTEGER steps = 8
+ *  2. STRING path = DDUUUUDD
+ *  Result = 1
  */
 
 function countingValleys(steps, path) {
