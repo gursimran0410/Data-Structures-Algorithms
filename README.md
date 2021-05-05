@@ -31,3 +31,10 @@
   * Insert a node into a sorted doubly linked list
   * Find Merge Point Of Two Linked List
   * Merge Two Sorted Linked List
+* Tree
+  * Binary Search Tree : Insertion
+  * Height of a binary Tree
+  * inorder traversal
+  * PostOrder Traversal
+  * PreOrder Traversal
+  * Tree: Level Order Traversal
