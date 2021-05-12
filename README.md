@@ -1,7 +1,9 @@
 ## Data-Structures-Algorithms
 * Algorithms
   * Apple and Oranges
+  * Array: Left Rotation
   * Birthday Cake Candles 
+  * Counting Valleys
   * Diagonal Differences
   * Grading Students
   * Mini-Max Sum
