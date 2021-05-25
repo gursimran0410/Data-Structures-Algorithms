@@ -25,7 +25,7 @@ class Solution {
       	
       	preOrder(root->left);
       	preOrder(root->right);
-    }
+	}
 
 /*
 Node is defined as 
@@ -57,25 +57,18 @@ class Node {
         }
         return root;
     }
-
 };
 
 int main() {
-  
     Solution myTree;
     Node* root = NULL;
-    
     int t;
     int data;
-
     std::cin >> t;
-
     while(t-- > 0) {
         std::cin >> data;
         root = myTree.insert(root, data);
     }
-  	
     myTree.preOrder(root);
-  
     return 0;
 }
