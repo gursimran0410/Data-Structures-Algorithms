@@ -33,7 +33,6 @@ int main()
     getline(cin, first_multiple_input_temp);
     vector<string> first_multiple_input = split(rtrim(first_multiple_input_temp));
     int n = stoi(first_multiple_input[0]);
-
     int d = stoi(first_multiple_input[1]);
 
     string a_temp_temp;
