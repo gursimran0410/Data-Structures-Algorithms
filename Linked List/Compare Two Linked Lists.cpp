@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
 class SinglyLinkedListNode {
     public:
         int data;
@@ -12,7 +10,6 @@ class SinglyLinkedListNode {
             this->next = nullptr;
         }
 };
-
 class SinglyLinkedList {
     public:
         SinglyLinkedListNode *head;
