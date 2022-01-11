@@ -41,6 +41,7 @@
   * Remove Duplicates from Sorted List
   * Remove Linked List Elements
   * Search Insert Position
+  * Middle of the Linked List
 * Tree
   * Binary Search Tree : Insertion
   * Height of a binary Tree
