@@ -33,6 +33,14 @@
   * Insert a node into a sorted doubly linked list
   * Find Merge Point Of Two Linked List
   * Merge Two Sorted Linked List
+  * Compare Two Linked Lists
+  * Convert Binary Number in a Linked List to Integer
+  * Flatten a Multilevel Doubly Linked List
+  * Inserting a Node into a Sorted Doubly Linked List
+  * Merge In Between Linked Lists
+  * Remove Duplicates from Sorted List
+  * Remove Linked List Elements
+  * Search Insert Position
 * Tree
   * Binary Search Tree : Insertion
   * Height of a binary Tree
