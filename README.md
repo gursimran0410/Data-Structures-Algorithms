@@ -19,6 +19,22 @@
   * Dynamic Array
   * Left Rotation
   * Sparse Arrays
+  * Arranging Coins
+  * Best Time to Buy and Sell Stock II
+  * Check If It Is a Straight Line
+  * Daily Temperatures
+  * Iterator for Combination
+  * Merge Sorted Array
+  * Minimum Number of Arrows to Burst Balloons
+  * Minimum Value to Get Positive Step by Step Sum
+  * Number of Valid Words for Each Puzzle
+  * Plus One
+  * Rotting Oranges
+  * Single Number III
+  * Sort Colors
+  * Surrounded Regions
+  * Two Sum
+  * Unique Paths III
 * Linked List
   * Print the elements of a linked list
   * Insert a node at the tail of linked list
