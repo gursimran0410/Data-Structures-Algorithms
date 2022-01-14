@@ -60,6 +60,7 @@
   * Middle of the Linked List
   * Maximum Twin Sum of a Linked List
   * Swapping Nodes in a Linked List
+  * Next Greater Node In Linked List
 * Tree
   * Binary Search Tree : Insertion
   * Height of a binary Tree
