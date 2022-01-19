@@ -69,3 +69,7 @@
   * PostOrder Traversal
   * PreOrder Traversal
   * Tree: Level Order Traversal
+* Stack
+  * Maximum Nesting Depth of the Parentheses
+  * Minimum Add to Make Parentheses Valid
+  * Remove Outermost Parentheses 
