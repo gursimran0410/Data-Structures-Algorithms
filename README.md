@@ -73,3 +73,6 @@
   * Maximum Nesting Depth of the Parentheses
   * Minimum Add to Make Parentheses Valid
   * Remove Outermost Parentheses 
+* Queue
+  * Number of Recent Calls
+  * Number of Students Unable to Eat Lunch
