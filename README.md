@@ -36,6 +36,7 @@
   * Two Sum
   * Unique Paths III
   * Minimum Cost of Buying Candies With Discount
+  * Count the Hidden Sequences
 * Linked List
   * Print the elements of a linked list
   * Insert a node at the tail of linked list
