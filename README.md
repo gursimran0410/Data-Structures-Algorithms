@@ -71,6 +71,13 @@
   * PostOrder Traversal
   * PreOrder Traversal
   * Tree: Level Order Traversal
+  * Create Target Array in the Given Order
+  * Deepest Leaves Sum
+  * Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+  * Invert a Binary Tree
+  * Sum Root to Leaf Numbers
+  * Sum of Left Leaves
+  * Unique Binary Search Trees
 * Stack
   * Maximum Nesting Depth of the Parentheses
   * Minimum Add to Make Parentheses Valid
@@ -78,3 +85,6 @@
 * Queue
   * Number of Recent Calls
   * Number of Students Unable to Eat Lunch
+* Strings
+  * Detect Capital
+  * Latest Time by Replacing Hidden Digits
