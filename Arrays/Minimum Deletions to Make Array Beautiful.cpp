@@ -1,19 +1,11 @@
 class Solution {
 public:
     int minDeletion(vector<int>& nums) {
-        vector<int> ans;
-        int cnt=0;
-        for(auto it:nums){
-            if(ans.size()%2==0)ans.push_back(it);
-            else if(ans.back()!=it){
-                ans.push_back(it);
-            }
-            else{
-                cout << it;
-                cnt++;
-            }
+        int del = 0;
+        for(int i=0; i<nums.size()-1; i++){
+            if(nums[i] == nums[i+1] && ((i-del)%2 == 0)) del++;
         }
-        if(ans.size()%2==1)cnt++;
-        return cnt;
+        if((nums.size() - del)%2 == 1) del++;
+        return del;
     }
 };
